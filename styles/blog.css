@@ -1,0 +1,16 @@
+.header{
+    height: 200px;
+    background-image: url('../images/360_F_347911899_lGRCgiWEGRzdJRVwWLWYThcV1B9eRQx2.jpg');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-blend-mode: color-burn;
+    
+}
+
+h3{
+    color: magenta;
+    text-decoration: underline wavy magenta;
+}
+p{
+    color: blueviolet;
+}
